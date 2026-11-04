@@ -1,0 +1,21 @@
+Code,Name,Cost
+1,Annual physical,180.0
+2,Blood panel,95.0
+3,X-ray,240.0
+4,MRI scan,1450.0
+5,CT scan,1100.0
+6,Echocardiogram,850.0
+7,Stress test,620.0
+8,Skin biopsy,410.0
+9,Colonoscopy,1900.0
+10,Knee arthroscopy,5200.0
+11,Cast application,320.0
+12,Ultrasound,390.0
+13,EKG,150.0
+14,Allergy testing,280.0
+15,Vaccination,60.0
+16,Physical therapy session,140.0
+17,Chemotherapy infusion,3200.0
+18,EEG,700.0
+19,Sleep study,1600.0
+20,Minor laceration repair,450.0

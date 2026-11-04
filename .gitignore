@@ -1,0 +1,17 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# drop folder for files recovered from the Year Up account; reviewed before anything is copied into a project
+incoming/
+
+# generated locally by the hospital SQLite runner
+*.sqlite
+*.db
+
+# never commit Power BI files by accident; add deliberately if verified synthetic
+*.pbix
